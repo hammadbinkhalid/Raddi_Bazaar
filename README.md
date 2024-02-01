@@ -1,5 +1,5 @@
 # Raddi Bazaar Hammad Bin Khalid
-
+# In a world increasingly focused on sustainability and environmental responsibility, we proudly present Raddi Bazaar – your premier destination for all things scrap. Scrap Haven is not just a store; it's a movement, a commitment to transforming discarded materials into valuable resources.
 **Description** : Web Application to Buy/Sell Scrap Items
 
 **Requisite** : Make sure you have Python3 and Pip installed in your System
